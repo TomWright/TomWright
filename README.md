@@ -1,8 +1,10 @@
 ### Hi there, I'm Tom 👋
 
-![Tom Wright's github stats](https://github-readme-stats.vercel.app/api?username=TomWright&count_private=true&show_icons=true)
+![Tom Wright's github stats](https://github-readme-stats.vercel.app/api?username=TomWright&count_private=true&show_icons=true&theme=darcula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomWright&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomWright&layout=compact&theme=darcula)
+
+Got some spare change and want to support me? [Visit my sponsors profile](https://github.com/sponsors/TomWright).
 
 ### Languages and Tools:
 
