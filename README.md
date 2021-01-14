@@ -17,6 +17,7 @@ Got some spare change and want to support me? [Visit my sponsors profile](https:
 
 ![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Storage-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Storage-PosgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
