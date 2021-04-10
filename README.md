@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomWright&layout=compact&theme=darcula)
 
-Got some spare change and want to support me? [Visit my sponsors profile](https://github.com/sponsors/TomWright) or [buy me a coffee](https://www.buymeacoffee.com/TomWright).
-
 ### Tools and Technologies
 
 ![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
