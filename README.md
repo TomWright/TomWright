@@ -12,9 +12,9 @@
 ![](https://img.shields.io/badge/Lang-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![]([https://img.shields.io/badge/Lang-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=go&logoColor=white&color=2bbc8a))
+![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
-![]([https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=2bbc8a](https://img.shields.io/badge/Framework-SolidJS-informational?style=flat&logo=svelte&logoColor=white&color=2bbc8a))
+![](https://img.shields.io/badge/Framework-SolidJS-informational?style=flat&logo=svelte&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
